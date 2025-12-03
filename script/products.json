@@ -1,0 +1,39 @@
+[
+    {
+        "id":1,
+        "name":"cheese burger",
+        "prise":30,
+        "image":"images/dish-1.png"
+    },
+    {
+        "id":2,
+        "name":"chicken",
+        "prise":20,
+        "image":"images/dish-2.png"
+    },
+    {
+        "id":3,
+        "name":"chicken",
+        "prise":23,
+        "image":"images/dish-3.png"
+    },
+    {
+        "id":4,
+        "name":"pizza",
+        "prise":33,
+        "image":"images/dish-4.png"
+    },
+    {
+        "id":5,
+        "name":"chicken Proset",
+        "prise":14,
+        "image":"images/dish-5.png"
+    },
+    {
+        "id":6,
+        "name":"pepperoni pizza",
+        "prise":30,
+        "image":"images/dish-6.png"
+    }
+]
+    
